@@ -11,15 +11,13 @@
 </p>
 
 ### Key points
-* 111
-* 222
-* 333
+* Strong media and communication professional with an Associate's degree focused in Computer Software Engineering
 ## 🛠 Technical Stack
-* Java/Kotlin/Go languages
-* MySQL, PostgreSQL, MongoDB
+* C, C++, C#, Golang, Java, Kotlin, Python languages
+* MySQL, PostgreSQL
 * Spring Framework, Spring Boot, Spring Test
-* GitHub/GitLab/Gerrit/Bitbucket
-### My opensource projects
-* 111
-* 222
-* 333
+* Docker, K8s
+* OpenCV, PoseEstimationForMobile, mace
+* Android Studio, gradle, IDEA, goland
+* GitHub
+🌱 I’m currently learning golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, pprof, Marshal, http, handlers, ListenAndServe, runtime, minikube
