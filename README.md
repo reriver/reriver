@@ -27,3 +27,6 @@
 * <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 🌱 I’m currently learning golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, pprof, Marshal, http, handlers, ListenAndServe, runtime, minikube
+* <a href="https://www.sololearn.com/profile/384127">
+	<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />
+</a>
