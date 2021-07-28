@@ -13,11 +13,7 @@
 ### Key points
 * Strong media and communication professional with an Associate's degree focused in Computer Software Engineering
 ## 🛠 Technical Stack
-* <p align='left'>
-		<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<p align='left'> 📫 How to reach me: <a href='mailto:golang.prefer@gmail.com'golang.prefer@gmail.com</a>
-</p>
-, C++, C#, Golang, Java, Kotlin, Python languages
+* <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>, C++, C#, Golang, Java, Kotlin, Python languages
 * MySQL, PostgreSQL
 * Spring Framework, Spring Boot, Spring Test
 * Docker, K8s
