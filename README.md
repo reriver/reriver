@@ -7,8 +7,7 @@
 	<a href="https://t.me/reriver">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 	</a>
-<p align='center'> 📫 How to reach me:
-	<a href='mailto:reriver.at@gmail.com'reriver.at@gmail.com
+	<a href='mailto:reriver.at@gmail.com'reriver.at@gmail.com>
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 	</a>
 </p>
