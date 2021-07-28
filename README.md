@@ -18,6 +18,7 @@
 * Spring Framework, Spring Boot, Spring Test
 * Docker, K8s
 * OpenCV, PoseEstimationForMobile, mace
+* pprof
 * gofmt, goimports, golangci-lint
 * goland, IDEA, Visual Studio, VS Code, Android Studio, gradle, goland, vim
 * GitHub
