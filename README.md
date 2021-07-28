@@ -10,6 +10,7 @@
 	<a href="mailto:reriver.at@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
+	</a>
 </p>
 
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
