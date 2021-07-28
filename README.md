@@ -20,7 +20,9 @@
 * 111
 * 222
 * 333
-## 🛠 Technical Stack * Java/Kotlin/Go languages * MySQL, PostgreSQL, MongoDB
+## 🛠 Technical Stack
+* Java/Kotlin/Go languages
+* * MySQL, PostgreSQL, MongoDB
 * Spring Framework, Spring Boot, Spring Test
 * GitHub/GitLab/Gerrit/Bitbucket
 ### My opensource projects
