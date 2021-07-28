@@ -23,7 +23,7 @@
 * <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>, PoseEstimationForMobile, mace
 * pprof
 * gofmt, goimports, golangci-lint
-* goland, IDEA, Visual Studio, VS Code, Android Studio, gradle, goland, vim
+* goland, IDEA, Visual Studio, VS Code, clion, <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>, Android Studio, gradle, vim
 * <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 🌱 I’m currently learning golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, pprof, Marshal, http, handlers, ListenAndServe, runtime, minikube
