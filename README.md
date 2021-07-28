@@ -7,8 +7,13 @@
 	<a href="https://t.me/reriver">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 	</a>
-<p align='center'> 📫 How to reach me: <a href='mailto:golang.prefer@gmail.com'golang.prefer@gmail.com</a>
+<p align='center'> 📫 How to reach me:
+	<a href='mailto:reriver.at@gmail.com'reriver.at@gmail.com
+		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+	</a>
 </p>
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 ### Key points
 * Strong media and communication professional with an Associate's degree focused in Computer Software Engineering
