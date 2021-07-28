@@ -18,6 +18,7 @@
 * Spring Framework, Spring Boot, Spring Test
 * Docker, K8s
 * OpenCV, PoseEstimationForMobile, mace
-* Android Studio, gradle, IDEA, goland
+* gofmt, goimports, golangci-lint
+* goland, IDEA, Visual Studio, VS Code, Android Studio, gradle, goland, vim
 * GitHub
 🌱 I’m currently learning golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, pprof, Marshal, http, handlers, ListenAndServe, runtime, minikube
