@@ -1,4 +1,4 @@
-# Hi, I'm Georgy 👋 Software Engineer
+# Hi, I'm Georgy 👋 - software engineer
 
 <p align='center'>
 	<a href="https://www.linkedin.com/in/reriver/">
