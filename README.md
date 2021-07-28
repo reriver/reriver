@@ -17,7 +17,7 @@
 * <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> , <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>, Spring Boot, Spring Test
 * <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>, <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-* <img src=""/> OpenCV, PoseEstimationForMobile, mace
+* <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/> OpenCV, PoseEstimationForMobile, mace
 * pprof
 * gofmt, goimports, golangci-lint
 * goland, IDEA, Visual Studio, VS Code, Android Studio, gradle, goland, vim
