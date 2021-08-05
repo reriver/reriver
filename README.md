@@ -17,12 +17,13 @@
 * Strong media and communication professional with an Associate's degree focused in Computer Software Engineering
 ## 🛠 Technical Stack
 * <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>, <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>, <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>, <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-* <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> , <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-* Spring ,Spring_Boot, Spring Test
-* Docker, Kubernetes
+* MySQL, PostgreSQL, redis, mongodb
+* Spring ,Spring Boot, Spring Test
+* Docker, Kubernetes, git
 * OpenCV, PoseEstimationForMobile, mace
 * pprof
 * gofmt, goimports, golangci-lint
-* goland, IntelliJIDEA, Visual Studio, Visual Studio Code, CLion, CMake, Android Studio, gradle, vim, git, Unity3d
+
+* Goland, IntelliJIDEA, DataGrip, Visual Studio, Visual Studio Code, CLion, CMake, Android Studio, gradle, vim, Unity3d
 
 🌱 golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, pprof, Marshal, http, handlers, ListenAndServe, runtime, minikube
