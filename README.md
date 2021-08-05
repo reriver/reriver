@@ -21,8 +21,8 @@
 * Spring ,Spring Boot, Spring Test
 * Docker, Kubernetes, minikube, git
 * OpenCV, PoseEstimationForMobile, mace
-* gofmt, goimports, golangci-lint
+* gofmt, goimports, golangci-lint, pprof
 
 * Goland, IntelliJIDEA, DataGrip, Visual Studio, Visual Studio Code, CLion, CMake, Android Studio, gradle, vim, Unity3d
 
-🌱 golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, pprof, marshal, http, handlers, runtime
+🌱 golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, marshal, http, handlers, runtime
