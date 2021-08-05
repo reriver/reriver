@@ -23,6 +23,6 @@
 * OpenCV, PoseEstimationForMobile, mace
 * pprof
 * gofmt, goimports, golangci-lint
-* goland, IntelliJIDEA, Visual_Studio, Visual_Studio_Code, Visual Studio Code, CLion>, CMake, Android_Studio, gradle, VIM, Git, Unity3d
+* goland, IntelliJIDEA, Visual Studio, Visual Studio Code, CLion, CMake, Android Studio, gradle, vim, git, Unity3d
 
 🌱 golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, pprof, Marshal, http, handlers, ListenAndServe, runtime, minikube
