@@ -27,4 +27,4 @@
 
 🌱 golang: slices, interfaces, go mod, goroutines, MPG model, sync, chan, mutex, atomic, context, marshal, http, handlers, runtime
 
-><a href="https://github.com/reriver?tab=repositories"> repositories </a>
+>. <a href="https://github.com/reriver?tab=repositories"> repositories </a>
